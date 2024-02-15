@@ -2,7 +2,7 @@
 # Super Mario Bros AI
 
 ## Introduction
-![banner.png (1918×1080) (raw.githubusercontent.com)](https://github.com/finezk/Mario-AI/blob/main/mario.gif?raw=true)
+![banner.png (1918×1080) (raw.githubusercontent.com)](https://github.com/finezk/Mario-AI/blob/main/mariobros.gif?raw=true)
 
 Welcome to MarioRL, an exciting project that combines the nostalgia of the classic Super Mario Bros game with the cutting-edge field of reinforcement learning (RL). This project is designed to provide a hands-on experience with RL concepts by training an agent to play Super Mario Bros autonomously. Utilizing the PyTorch library and the Gym Retro environment, MarioRL offers a unique platform for both beginners and experienced practitioners to explore and experiment with various reinforcement learning algorithms in a fun and familiar setting.
 
